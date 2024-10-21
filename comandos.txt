@@ -1,0 +1,6 @@
+chmod +x calculadora.sh
+chmod +x calculadora.py
+chmod go-wx calculadora.py
+chmod go-wx calculadora.sh
+ls -l
+#(para verificar se esta ok)
