@@ -1,6 +1,6 @@
 while True:
     # Solicitar operação
-    Operacao = input("Digite a operação (1 - Soma, 2 - Subtração, 3 - Divisão, 4 - Multiplicação) ou 'q' para sair: ")
+    Operacao = input("Digite a operação (1 - Soma, 2 - Subtração, 3 - Divisão, 4 - Multiplicação) ou 'a' para sair: ")
 
     # Verifica se é para sair
     if Operacao == 'a' or Operacao == 'A':
